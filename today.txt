@@ -1,0 +1,36 @@
+
+acer@TMP249-G2-M MINGW64 ~ (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/acer/.git/
+
+acer@TMP249-G2-M MINGW64 ~ (master)
+$
+
+
+
+acer@TMP249-G2-M MINGW64 ~ (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/acer/.git/
+
+acer@TMP249-G2-M MINGW64 ~ (master)
+$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
